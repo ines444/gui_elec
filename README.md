@@ -5,7 +5,7 @@ Aide pour la création du git:
 1/ (github.com) Se créer un compte sur github (https://github.com/). 
 
 
-2/ (github.com) Télécharger et installer MingW64 (https://www.mingw-w64.org/downloads/) qui permet de gérer les dossiers git en local. 
+2/ (github.com) Télécharger et installer Git for Windows (https://gitforwindows.org/) qui permet de gérer les dossiers git en local. 
 3/ (Terminal Git Bash) Ouvrir le Git Bash dans le dossier en local où on veut que le dossier git se trouve (clique droit dans ce dossier et "Git Bash here") puis, grâce au terminal Git Bash, créer une clé SSH pour la communication entre le dossier local et github (tuto: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). 
 
 
@@ -26,5 +26,5 @@ Aide pour la création du git:
 	- git commit -m "Message expliquant les modifications (exemple: Fonction X ajoutée)"
 	- git push origin main
 
-	
+
 9/ Ensuite les modifications apportées sont visibles en ligne, et l'historique des commits permet de les retracer. 
